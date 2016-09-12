@@ -1,0 +1,54 @@
+*{
+  padding:5px;
+}
+
+main{
+  width: 600px;
+}
+
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+
+h1{
+  margin-left: 20px;
+}
+
+#First-name, #Last-name, #Phone-Number, #Street, #City, #State{
+  display: block;
+  border-radius: 5px;
+  width: 50%;
+
+}
+
+#Add{
+  margin-top: 20px;
+  background-color: steelblue;
+  color: white;
+  border-radius:5px;
+}
+
+li{
+  color: steelblue;
+  cursor: pointer;
+}
+
+.div1 {
+  float:left;
+  width: 50%;
+  margin-left: 20px;
+}
+
+.div2 {
+  position: absolute;
+  left:300px;
+  top:0
+  width: 50%;
+}
+
+.div3 {
+  margin-top: 450px;
+  margin-left: 20px;
+}
